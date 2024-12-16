@@ -1,4 +1,4 @@
-# Food Order App#
+# Food Order App
 **Overview**
 The Food Order App is an Android application designed for ordering food items. Users can browse a list of food options, view details, adjust quantities, and place or manage their orders.
 
@@ -16,11 +16,11 @@ The Food Order App is an Android application designed for ordering food items. U
 
 ### How It Works
 1. **Main Menu**
--Displays a list of food items fetched from a static list in MainActivity.java.
+   -Displays a list of food items fetched from a static list in MainActivity.java.
 
 2. **Food Details**
--Allows users to view detailed information about a food item, adjust quantities, and place an order (DetailActivity.java).
+   -Allows users to view detailed information about a food item, adjust quantities, and place an order (DetailActivity.java).
 
 3.**Orders**
--Displays all orders in a RecyclerView (OrderActivity.java).
--Supports updating or deleting orders.
+   -Displays all orders in a RecyclerView (OrderActivity.java).
+   -Supports updating or deleting orders.
